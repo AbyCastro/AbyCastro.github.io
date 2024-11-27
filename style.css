@@ -1,0 +1,63 @@
+*{
+    font-family: "IM Fell DW Pica", serif;
+    font-style: italic;
+}
+
+header{
+    background-color: #e1918e;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.nav-link{
+    color: #fee9a6;
+}
+
+#boton-perfil{
+    background-color: #e0c4ae;
+}
+
+.nav-item a:hover{
+    color: gainsboro;
+}
+
+#app{
+    color: #e15e6e;
+}
+
+.boton-cv{
+    background-color: #e0c4ae;
+    color: black;
+}
+
+.caja-habilidades{
+    background-color: #c3e6d4;
+}
+
+.btn-proyecto{
+    background-color: #e1918e;
+}
+
+.btn-proyecto a{
+    text-decoration: none;
+    color: #f4f0e5;
+}
+
+.card .card-title{
+color: #e15e6e;
+}
+
+#contacto{
+    background-color: #e0c4ae;
+}
+
+#btn-contacto{
+    background-color: #e15e6e;
+    border: #e15e6e;
+}
+
+#btn-contacto:hover{
+    background-color: #c3e6d4;
+}
