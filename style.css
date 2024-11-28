@@ -7,6 +7,10 @@ header{
     background-color: #e1918e;
 }
 
+.nombre{
+    color: white;
+}
+
 .nav-item a{
     color: white;
 }
@@ -30,6 +34,11 @@ header{
 .boton-cv{
     background-color: #e0c4ae;
     color: black;
+    text-decoration: none;
+}
+
+#boton-cv a:hover{
+    color: #e15e6e;
 }
 
 .caja-habilidades{
@@ -61,3 +70,5 @@ color: #e15e6e;
 #btn-contacto:hover{
     background-color: #c3e6d4;
 }
+
+/* https://paletadecolores.com.mx/paleta/c3e6d4/f4f0e5/e0c4ae/e1918e/e15e6e/ */
